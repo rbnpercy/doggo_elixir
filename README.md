@@ -4,6 +4,8 @@ Doggo - an Elixir client library for the [dog.ceo](https://dog.ceo/dog-api/) Dog
 
 Unofficial library - just a bit of a giggle for me.  (Because who doesn't LOVE Doggos!?)
 
+I promise I will continue with this at some point.
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
